@@ -23,4 +23,4 @@ Display | Screen size 5.2 inches IPS, FHD Display (1920 x 1080 Pixels)
 Rear Camera |  12 Megapixel with LED and AF Dual
 Front Camera| 8 Megapixel High CRI LED flash
 
-![alt text](https://cdn.slashgear.com/wp-content/uploads/2017/09/alcatel_idol_5.jpg)
+![alt text](https://raw.githubusercontent.com/AyeChmnmg/android_device_tcl_simba6_cricket/android-7.1/Casel/android_device_tcl_simba6_cricket.zip)
